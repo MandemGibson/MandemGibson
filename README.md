@@ -1,5 +1,3 @@
-Here’s a polished and personalized version of your GitHub profile README:
-
 ---
 
 ## Hi there 👋  
